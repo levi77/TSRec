@@ -1,2 +1,2 @@
 # TSRec
-Code and dataset for KDD 2022 paper "G2NET: A General Geography-Aware Representation Network for Hotel Search Ranking" will be made public under this project
+Code for CIKM 2023 paper "Enhancing Repeat-Aware Recommendation from a Temporal-Sequential Perspective" will be made public under this project
